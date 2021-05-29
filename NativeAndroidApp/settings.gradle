@@ -2,4 +2,4 @@ rootProject.name = "NativeAndroidApp"
 include ':app'
 
 include ':unityLibrary'
-project(':unityLibrary').projectDir=new File('..\\UnityProject\\androidBuild\\unityLibrary')
+project(':unityLibrary').projectDir=new File('..\\UnityProject\\androidBuild\\unityLibrary')//里面写的是你unitylibrary的路径
